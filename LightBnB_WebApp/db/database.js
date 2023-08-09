@@ -8,8 +8,7 @@ const pool = new Pool({
   host: 'localhost',
   database: 'lightbnb',
   password: 'labber',
-  port: 5432,
-}); 
+  }); 
 
 
 /// Users
@@ -111,7 +110,7 @@ const getAllReservations = function (guest_id, limit = 10) {
  * @return {Promise<[{}]>}  A promise to the properties.
  */
 const getAllProperties = function (options, limit = 10) {
-  pool
+  return pool
     .query(`
       SELECT *
       FROM properties
