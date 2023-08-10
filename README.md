@@ -1,13 +1,20 @@
 # LightBnB
 
 A simple multi-page AirBnB clone that uses a server-side Javascript to dispaly the information from queries to wev pages vis SQL queries.
+
+## Getting Started
+1. Create a new repository using this repository as a template.
+2. Clone your repository onto your local device.
+3. Install dependencies using the npm install command.
+4. Start the web server using the npm run local command. The app will be served at http://localhost:3000.
+5. Go to http://localhost:3000 in your browser.
+
 ## LightBNB EDB
 ![image](https://github.com/marinaivanovadev/LightBnB/assets/130605410/5042c0ea-b3fb-473e-86ae-3a3ac6a09125)
 
 ## Project Structure
 
 ![image](https://github.com/marinaivanovadev/LightBnB/assets/130605410/2eaec74b-f089-4cc1-9210-f1c0a3274964)
-
 
 * `db` contains all the database interaction code.
   * `json` is a directory that contains a bunch of dummy data in `.json` files.
