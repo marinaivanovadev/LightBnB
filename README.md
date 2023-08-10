@@ -4,42 +4,7 @@ A simple multi-page AirBnB clone that uses a server-side Javascript to dispaly t
 
 ## Project Structure
 
-Project Structure
-.
-├── db
-│   ├── json
-│   └── database.js
-├── public
-│   ├── javascript
-│   │   ├── components 
-│   │   │   ├── header.js
-│   │   │   ├── login_form.js
-│   │   │   ├── new_property_form.js
-│   │   │   ├── property_listing.js
-│   │   │   ├── property_listings.js
-│   │   │   ├── search_form.js
-│   │   │   └── signup_form.js
-│   │   ├── libraries
-│   │   ├── index.js
-│   │   ├── network.js
-│   │   └── views_manager.js
-│   ├── styles
-│   │   ├── main.css
-│   │   └── main.css.map
-│   └── index.html
-├── routes
-│   ├── apiRoutes.js
-│   └── userRoutes.js
-├── styles  
-│   ├── _forms.scss
-│   ├── _header.scss
-│   ├── _property-listings.scss
-│   └── main.scss
-├── .gitignore
-├── package-lock.json
-├── package.json
-├── README.md
-└── server.js
+![image](https://github.com/marinaivanovadev/LightBnB/assets/130605410/2eaec74b-f089-4cc1-9210-f1c0a3274964)
 
 
 * `db` contains all the database interaction code.
