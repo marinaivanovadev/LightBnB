@@ -1,6 +1,8 @@
 # LightBnB
 
 A simple multi-page AirBnB clone that uses a server-side Javascript to dispaly the information from queries to wev pages vis SQL queries.
+## LightBNB EDB
+![image](https://github.com/marinaivanovadev/LightBnB/assets/130605410/5042c0ea-b3fb-473e-86ae-3a3ac6a09125)
 
 ## Project Structure
 
