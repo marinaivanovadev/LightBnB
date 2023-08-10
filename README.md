@@ -4,6 +4,8 @@ A simple multi-page AirBnB clone that uses a server-side Javascript to dispaly t
 
 ## Project Structure
 
+Project Structure
+.
 ├── db
 │   ├── json
 │   └── database.js
@@ -38,7 +40,7 @@ A simple multi-page AirBnB clone that uses a server-side Javascript to dispaly t
 ├── package.json
 ├── README.md
 └── server.js
-```
+
 
 * `db` contains all the database interaction code.
   * `json` is a directory that contains a bunch of dummy data in `.json` files.
